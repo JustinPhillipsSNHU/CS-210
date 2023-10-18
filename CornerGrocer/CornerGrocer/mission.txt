@@ -1,0 +1,26 @@
+Create a menu:
+1) Find occurences in a list document
+Prompt the user to input a query for an item or word to search for in a document. 
+Return the value of the frequency of that word.
+
+
+2) Print a list with numbers of occurences: The frequency of each item with a corresponding number.
+Potatoes 4
+Pumpkins 5
+Onions 3
+
+3) Print the frequency of each item in the form of a histogram
+This is a diagram of rectangles with areas proportional to frequency
+Print the name 
+Potatoes ****
+Pumpkins *****
+Onions ***
+
+4) Quit the program
+
+
+This app should create a frequency.dat file to back up the frequency data. It should include every unique item key paired with the times appeared in the input file.
+
+Create a documentation describing design and functionality including screenshots of the code and functionality. Include thought process as coding.
+
+The implementation must include at least one class with public and private sections. 
